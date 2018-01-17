@@ -1,0 +1,72 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-b26eb74513f333c664ae.js",
+      "component---src-pages-index-js-b26eb74513f333c664ae.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---profile": [
+      "path---profile-a0e39f21c11f6a62c5ab.js",
+      "path---profile-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---let-lambda-within-vpc-access-internet": [
+      "path---let-lambda-within-vpc-access-internet-d637cedc5134fc541a0a.js",
+      "path---let-lambda-within-vpc-access-internet-d637cedc5134fc541a0a.js.map"
+    ],
+    "path---build-your-aws-infrastructure-part-2": [
+      "path---build-your-aws-infrastructure-part-2-763ff7cb1421757e31cc.js",
+      "path---build-your-aws-infrastructure-part-2-763ff7cb1421757e31cc.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-7d44bd711418474326f7.js",
+      "component---src-templates-blog-post-js-7d44bd711418474326f7.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-1e2ac3ad4fc0e70c3b5e.js",
+      "component---src-layouts-index-js-1e2ac3ad4fc0e70c3b5e.js.map"
+    ],
+    "path---index": [
+      "path---index-95a9e54b1fcf0355fd94.js",
+      "path---index-95a9e54b1fcf0355fd94.js.map"
+    ],
+    "path---build-your-aws-infrastructure-part-1": [
+      "path---build-your-aws-infrastructure-part-1-3e3109c3981941a5e72c.js",
+      "path---build-your-aws-infrastructure-part-1-3e3109c3981941a5e72c.js.map"
+    ],
+    "commons": [
+      "commons-0446bb8c6998a7bbd006.js",
+      "build-js-styles.css",
+      "commons-0446bb8c6998a7bbd006.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---build-a-simple-cicd-with-aws-codecommit-codebuild-and-codepipeline": [
+      "path---build-a-simple-cicd-with-aws-codecommit-codebuild-and-codepipeline-047ffce70234be488ac1.js",
+      "path---build-a-simple-cicd-with-aws-codecommit-codebuild-and-codepipeline-047ffce70234be488ac1.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-4ac2711f12d0123bc167.js",
+      "build-js-styles.css",
+      "app-4ac2711f12d0123bc167.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---build-your-ultimate-blog-with-react-s-3-cloudfront-and-route-53": [
+      "path---build-your-ultimate-blog-with-react-s-3-cloudfront-and-route-53-4fa3101fbc3ff872e98a.js",
+      "path---build-your-ultimate-blog-with-react-s-3-cloudfront-and-route-53-4fa3101fbc3ff872e98a.js.map"
+    ],
+    "component---src-pages-profile-index-jsx": [
+      "component---src-pages-profile-index-jsx-7ef9f077f4e6fc5337a8.js",
+      "component---src-pages-profile-index-jsx-7ef9f077f4e6fc5337a8.js.map"
+    ]
+  }
+}
